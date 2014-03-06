@@ -1,0 +1,5 @@
+component {d5c14bc0-a56d-11e3-a5e2-0800200c9a66} components/ddgOverrideProtocols.js
+contract @instantbird.org/purple/duck;1 {d5c14bc0-a56d-11e3-a5e2-0800200c9a66}
+category im-protocol-plugin prpl-duck @instantbird.org/purple/duck;1
+
+skin prpl-duck     classic/1.0 chrome/skin/
